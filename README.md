@@ -4,5 +4,7 @@ En el presente proyecto se hace uso de React + Vite principalmente, así como ta
 
 Como adicional se agrega la pasarela de pago utilizando Stripe en modo desarrollador permitiendo las operaciones de compra simuladas en tiempo real y la visualización de la persistencia de productos o no en un carrito de compras usando como contexto el estatus del usuario en dos estados: Logueado y No logueado.
 
-Despliegue del proyecto para visualización
-Link:
+<h3>Despliegue del proyecto en Netlify para visualización</h3>
+Link Frontend: https://ecommerce-dhcar-fullstack.netlify.app/home
+
+Link Backend: (Mismo link proyecto 6) 
