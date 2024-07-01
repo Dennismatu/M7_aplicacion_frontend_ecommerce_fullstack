@@ -8,3 +8,6 @@ Como adicional se agrega la pasarela de pago utilizando Stripe en modo desarroll
 Link Frontend: https://ecommerce-dhcar-fullstack.netlify.app
 
 Link Backend: (Mismo link proyecto 6) 
+
+<h2>NOTA</h2>
+Por favor, por funcionamiento propio de las plataformas de despliegue se pide encarecidamente que primero consulte el link del backend (https://m6-aplicacion-backend-autenticacion.onrender.com) a traves del navegador, para tener disponibles los datos. Ya que de estar en modo de Standby el sitio de E-Commerce no mostrará correctamente la información. 
